@@ -3,8 +3,10 @@ body, html{
 }
 body{
   margin: 0px;
-  background-color:#444;
-  font-size: 18px;
+  background: url("https://i.pinimg.com/originals/dc/8d/ef/dc8def609c27f9123c4f61a83a3b93bd.jpg");
+  background-size: 3000px 900px;
+
+
 }
 body, a:link, a:visited, a:active{
   color: lightblue;
@@ -21,7 +23,8 @@ body, a:link, a:visited, a:active{
   background-color: #777;
 }
 .dancer{
-  border:10px solid red;
-  border-radius:10px;
+  background-image: url("https://im6.ezgif.com/tmp/ezgif-6-0b442cf2afcd.gif");
+  width: 115px;
+  height: 90px;
   position:absolute;
 }
